@@ -9,6 +9,10 @@ const todos = [
         title: 'Read next chapted of the book',
         isCompleted: false,
     },
+    {
+        title: 'Read next chapted of the book',
+        isCompleted: true,
+    },
 ]
 
 const Home = () => {
